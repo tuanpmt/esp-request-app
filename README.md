@@ -1,4 +1,4 @@
-# ESP-REQUEST Applicaiton
+# ESP-REQUEST Application
 
 Sample application for [esp-request](https://github.com/tuanpmt/esp-request)
 
